@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         public int Add(int a, int b)
         {
+            // adding comment
             return a + b;
 
         }
